@@ -26,3 +26,11 @@ crear un branch solo para los gui (aui en github) asi trabajar organizados, buen
 pero segun lo que entendi es para manejar versiones.
 
 Nos tamos hablando!...
+
+
+
+
+_________________________________________________________________________________________________________________________
+
+
+Ok, revisa mi repo lo que coloque, bueno nos tocara comentar aqui
